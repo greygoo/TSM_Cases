@@ -7,3 +7,6 @@
 [submodule "Mesh-Box_with-battery/rPizero_case"]
 	path = Mesh-Box_with-battery/rPizero_case
 	url = https://github.com/greygoo/rPizero_case.git
+[submodule "Mesh-Box_with-battery/openscad-libraries"]
+	path = Mesh-Box_with-battery/openscad-libraries
+	url = https://github.com/greygoo/openscad-libraries.git
