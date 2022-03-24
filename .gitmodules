@@ -1,0 +1,9 @@
+[submodule "Mesh-Box_with-battery/LoRa-T3_case"]
+	path = Mesh-Box_with-battery/LoRa-T3_case
+	url = https://github.com/greygoo/LoRa-T3_case.git
+[submodule "Mesh-Box_with-battery/18650x2_case"]
+	path = Mesh-Box_with-battery/18650x2_case
+	url = https://github.com/greygoo/18650x2_case.git
+[submodule "Mesh-Box_with-battery/rPizero_case"]
+	path = Mesh-Box_with-battery/rPizero_case
+	url = https://github.com/greygoo/rPizero_case.git
