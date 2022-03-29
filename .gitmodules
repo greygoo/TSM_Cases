@@ -10,3 +10,9 @@
 [submodule "Mesh-Box_with-battery/openscad-libraries"]
 	path = Mesh-Box_with-battery/openscad-libraries
 	url = https://github.com/greygoo/openscad-libraries.git
+[submodule "Mesh-Box/rPizero_case"]
+	path = Mesh-Box/rPizero_case
+	url = https://github.com/greygoo/rPizero_case.git
+[submodule "Mesh-Box/LoRa-T3_case"]
+	path = Mesh-Box/LoRa-T3_case
+	url = https://github.com/greygoo/LoRa-T3_case.git
